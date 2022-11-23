@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-[Click here to see the Project Demo] (https://www.shorturl.at/jkNV1)
+[Click here to see the Project Demo](https://www.shorturl.at/jkNV1)
